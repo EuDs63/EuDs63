@@ -16,4 +16,9 @@ Here are some ideas to get you started:
 -->
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [《窄门》摘录](http://euds63.github.io/2023/03/15/excerpt-of-Strait-is-the-Gate/)
+- [读《窄门》](http://euds63.github.io/2023/03/15/Strait-is-the-Gate/)
+- [博客搭建](http://euds63.github.io/2023/03/13/BlogBuilding/)
+- [network](http://euds63.github.io/2023/03/11/network/)
+- [《生死疲劳》摘录](http://euds63.github.io/2023/03/09/excerpt-of-Life-and-Death-are-Wearing-Me-Out/)
 <!-- BLOG-POST-LIST:END -->
