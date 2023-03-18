@@ -16,4 +16,7 @@ jobs:
       - name: Pull in dev.to posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
+          max_post_count: "10"
           feed_list: "https://euds63.github.io/atom.xml"
+          date_format: mmm d, yyyy
+          template: <p align="center"><a href= $url > $title - $date </a></p>
