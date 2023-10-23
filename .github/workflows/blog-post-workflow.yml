@@ -17,6 +17,6 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           max_post_count: "10"
-          feed_list: "https://euds63.github.io/atom.xml"
+          feed_list: "https://ds63.eu.org/index.xml"
           date_format: mmm d, yyyy
           template: <p align="center"><a href= $url > $title - $date </a></p>
