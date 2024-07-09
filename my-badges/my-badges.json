@@ -1,0 +1,86 @@
+[
+  {
+    "id": "a-commit",
+    "tier": 1,
+    "desc": "One of my commit sha starts with \"a\".",
+    "body": "- <a href=\"https://github.com/EuDs63/wush/commit/a22f4ad5de0973ad60670fbd6cb5a40ab5c8e410\"><strong>a</strong>22f4ad5de0973ad60670fbd6cb5a40ab5c8e410</a>",
+    "image": "https://my-badges.github.io/my-badges/a-commit.png"
+  },
+  {
+    "id": "ab-commit",
+    "tier": 2,
+    "desc": "One of my commit sha starts with \"ab\".",
+    "body": "- <a href=\"https://github.com/EuDs63/RANK2COLLECTION/commit/aba330643256fb7ca5b16196be23a3be5feb33a1\"><strong>ab</strong>a330643256fb7ca5b16196be23a3be5feb33a1</a>",
+    "image": "https://my-badges.github.io/my-badges/ab-commit.png"
+  },
+  {
+    "id": "bad-words",
+    "tier": 0,
+    "desc": "I used a word \"fuck\" in my commit message.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/EuDs63/BookRecommend_Back/commit/a4d161fe9fc1ba64efb05c646d24402ede32220c\">a4d161f</a>: fuck pycache",
+    "image": "https://my-badges.github.io/my-badges/bad-words.png"
+  },
+  {
+    "id": "cosmetic-commit",
+    "tier": 0,
+    "desc": "I made cosmetic commit.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/EuDs63/postkid/commit/a0da5a30018df94316469319aeaeb8eed0487c64\">a0da5a3</a>\n- <a href=\"https://github.com/EuDs63/ncmTranslatorScript_python/commit/69236bc312f5028dd1a92d8ab6a4eb30270fc608\">69236bc</a>",
+    "image": "https://my-badges.github.io/my-badges/cosmetic-commit.png"
+  },
+  {
+    "id": "delorean",
+    "tier": 0,
+    "desc": "I committed on the day Doctor Emmett Brown invented the flux capacitor!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/EuDs63/EuDs63.github.io/commit/d6276663df19a67c783cc4b76e92e42dffeaddc6\">d627666</a>",
+    "image": "https://my-badges.github.io/my-badges/delorean.png"
+  },
+  {
+    "id": "favorite-word",
+    "tier": 0,
+    "desc": "My favorite word is \"update\".",
+    "body": "My favorite commit message words are:\n\n1. update (used 170 times)\n2. from (used 95 times)\n3. merge (used 93 times)\n4. into (used 82 times)\n5. of (used 70 times)",
+    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
+  },
+  {
+    "id": "fix-2",
+    "tier": 1,
+    "desc": "I did 2 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/EuDs63/postkid/commit/5845d1f3da6b67cf91fa305f670ab4c758749da8\">5845d1f</a>: fix: Failed to execute 'removeChild' on 'Node'\n- <a href=\"https://github.com/EuDs63/postkid/commit/787cee1c01442b9bc8ca2801688f55dad19b5cf1\">787cee1</a>: fix: Failed to execute 'removeChild' on 'Node'",
+    "image": "https://my-badges.github.io/my-badges/fix-2.png"
+  },
+  {
+    "id": "mass-delete-commit",
+    "tier": 1,
+    "desc": "When I delete code, I delete a lot.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/EuDs63/BookRecommend_Front/commit/afdbe6a0983398b1c1118d65e0f4ffca8d1b4272\">afdbe6a</a>",
+    "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
+  },
+  {
+    "id": "mass-delete-commit-10k",
+    "tier": 2,
+    "desc": "When I delete code, I delete a lot.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/EuDs63/EuDs63.github.io/commit/b0864eecf838c2872591546c03217e9cd933f4b3\">b0864ee</a>",
+    "image": "https://my-badges.github.io/my-badges/mass-delete-commit-10k.png"
+  },
+  {
+    "id": "public-keys-5",
+    "tier": 5,
+    "desc": "I have five or more public keys",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/public-keys-5.png"
+  },
+  {
+    "id": "sleepy-coder",
+    "tier": 0,
+    "desc": "I am a sleepy coder.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/EuDs63/EuDs63.github.io/commit/11299496ecc453066d1a3a81216d2bb24adc899f\">1129949</a>\n- <a href=\"https://github.com/EuDs63/TemperMonkeyScripts/commit/9526b5e3d3a56b6b95133a570eba2a3694d95328\">9526b5e</a>\n- <a href=\"https://github.com/EuDs63/TemperMonkeyScripts/commit/fd742456f90a6ebb2a81db2dc4a5e977e005addc\">fd74245</a>\n- <a href=\"https://github.com/EuDs63/TemperMonkeyScripts/commit/08ca494cede69dd916f7d7dcbf9eb295114f848d\">08ca494</a>\n- <a href=\"https://github.com/EuDs63/EuDs63.github.io/commit/3568072ead7e00280cd581bb1e2222c84c5b8aec\">3568072</a>\n- <a href=\"https://github.com/EuDs63/EuDs63.github.io/commit/9bc3d0bbe261e21b57dce0232ea61965d085d98e\">9bc3d0b</a>",
+    "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
+  },
+  {
+    "id": "morning-commits",
+    "tier": 0,
+    "desc": "I commit in the morning.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/EuDs63/EuDs63.github.io/commit/463b3b4dbdafa8336c8100adefaff01ab0f04405\">463b3b4</a>\n- <a href=\"https://github.com/EuDs63/EuDs63.github.io/commit/98f5ddebee36cee52452f6f5ac4c3f3785f4d603\">98f5dde</a>\n- <a href=\"https://github.com/EuDs63/EuDs63.github.io/commit/db72cf29c1eda3c038ce390ea3aad110cc359ec8\">db72cf2</a>\n- <a href=\"https://github.com/EuDs63/EuDs63.github.io/commit/69ba50316db8083f0b366713e71bd145d710e439\">69ba503</a>\n- <a href=\"https://github.com/EuDs63/EuDs63.github.io/commit/dd28d882d56769ccf6bf9f9f3e04f0c5e7301776\">dd28d88</a>\n- <a href=\"https://github.com/EuDs63/EuDs63.github.io/commit/f81c1b23aec99d4e1b80ba195b6cbb8f7a3e129f\">f81c1b2</a>",
+    "image": "https://my-badges.github.io/my-badges/morning-commits.png"
+  }
+]
