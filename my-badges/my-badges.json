@@ -38,7 +38,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 189 times)\n2. from (used 109 times)\n3. merge (used 93 times)\n4. into (used 82 times)\n5. of (used 70 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 192 times)\n2. from (used 112 times)\n3. merge (used 94 times)\n4. into (used 84 times)\n5. of (used 71 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -80,7 +80,7 @@
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/EuDs63/ffmpy/commit/333a19ee4d21f32537c0508aa1942ef1aa7afe24\">333a19e</a>\n- <a href=\"https://github.com/EuDs63/EuDs63.github.io/commit/b608e2238489444b586b464865d21e01ea047d8d\">b608e22</a>\n- <a href=\"https://github.com/EuDs63/EuDs63.github.io/commit/e918a9b3bd6a1e03786c03101e2c678f43f5da54\">e918a9b</a>\n- <a href=\"https://github.com/EuDs63/EuDs63.github.io/commit/463b3b4dbdafa8336c8100adefaff01ab0f04405\">463b3b4</a>\n- <a href=\"https://github.com/EuDs63/EuDs63.github.io/commit/98f5ddebee36cee52452f6f5ac4c3f3785f4d603\">98f5dde</a>\n- <a href=\"https://github.com/EuDs63/EuDs63.github.io/commit/db72cf29c1eda3c038ce390ea3aad110cc359ec8\">db72cf2</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/EuDs63/EuDs63.github.io/commit/8216acce7dec892e6519ed23072fd7f56ce29408\">8216acc</a>\n- <a href=\"https://github.com/EuDs63/EuDs63.github.io/commit/d2f5e87f190f12416e0b159e31e7a04216ae3d49\">d2f5e87</a>\n- <a href=\"https://github.com/EuDs63/EuDs63.github.io/commit/c8effc6756cc72b23239655790acaf707d4bcdef\">c8effc6</a>\n- <a href=\"https://github.com/EuDs63/ffmpy/commit/333a19ee4d21f32537c0508aa1942ef1aa7afe24\">333a19e</a>\n- <a href=\"https://github.com/EuDs63/EuDs63.github.io/commit/b608e2238489444b586b464865d21e01ea047d8d\">b608e22</a>\n- <a href=\"https://github.com/EuDs63/EuDs63.github.io/commit/e918a9b3bd6a1e03786c03101e2c678f43f5da54\">e918a9b</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {
@@ -89,5 +89,12 @@
     "desc": "I have two public keys",
     "body": "",
     "image": "https://my-badges.github.io/my-badges/public-keys-2.png"
+  },
+  {
+    "id": "public-keys-3",
+    "tier": 3,
+    "desc": "I have three public keys",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/public-keys-3.png"
   }
 ]
