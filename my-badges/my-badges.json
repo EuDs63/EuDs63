@@ -38,7 +38,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 221 times)\n2. from (used 133 times)\n3. merge (used 96 times)\n4. into (used 88 times)\n5. of (used 73 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 223 times)\n2. from (used 135 times)\n3. merge (used 96 times)\n4. into (used 88 times)\n5. of (used 73 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -103,5 +103,12 @@
     "desc": "I have four public keys",
     "body": "",
     "image": "https://my-badges.github.io/my-badges/public-keys-4.png"
+  },
+  {
+    "id": "dead-commit",
+    "tier": 0,
+    "desc": "I pushed a commit with \"dead\" once.",
+    "body": "- <a href=\"https://github.com/EuDs63/EuDs63.github.io/commit/450dead301ef2a8dc6c53752d840be6cf387d40d\">450<strong>dead</strong>301ef2a8dc6c53752d840be6cf387d40d</a>",
+    "image": "https://my-badges.github.io/my-badges/dead-commit.png"
   }
 ]
