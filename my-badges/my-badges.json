@@ -38,7 +38,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 248 times)\n2. from (used 152 times)\n3. merge (used 98 times)\n4. into (used 92 times)\n5. of (used 75 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 250 times)\n2. from (used 154 times)\n3. merge (used 98 times)\n4. into (used 92 times)\n5. of (used 75 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -73,14 +73,14 @@
     "id": "sleepy-coder",
     "tier": 0,
     "desc": "I am a sleepy coder.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/EuDs63/EuDs63.github.io/commit/e4a5498b59abb2882c80f5fa6bb245bcfad87d38\">e4a5498</a>\n- <a href=\"https://github.com/EuDs63/EuDs63.github.io/commit/275e81b6c587d8ff2a5a5287426e66f3f3427873\">275e81b</a>\n- <a href=\"https://github.com/EuDs63/EuDs63.github.io/commit/f801ff266c1b34e50637b2bd0371b306c001a53d\">f801ff2</a>\n- <a href=\"https://github.com/EuDs63/EuDs63.github.io/commit/1c41cf9b7f1d4b2160d2510d74885f2a4e0bd990\">1c41cf9</a>\n- <a href=\"https://github.com/EuDs63/EuDs63.github.io/commit/11299496ecc453066d1a3a81216d2bb24adc899f\">1129949</a>\n- <a href=\"https://github.com/EuDs63/TemperMonkeyScripts/commit/9526b5e3d3a56b6b95133a570eba2a3694d95328\">9526b5e</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/EuDs63/EuDs63/commit/a4e4f64935d6209283a45b52d5ff340b78876e19\">a4e4f64</a>\n- <a href=\"https://github.com/EuDs63/EuDs63.github.io/commit/e4a5498b59abb2882c80f5fa6bb245bcfad87d38\">e4a5498</a>\n- <a href=\"https://github.com/EuDs63/EuDs63.github.io/commit/275e81b6c587d8ff2a5a5287426e66f3f3427873\">275e81b</a>\n- <a href=\"https://github.com/EuDs63/EuDs63.github.io/commit/f801ff266c1b34e50637b2bd0371b306c001a53d\">f801ff2</a>\n- <a href=\"https://github.com/EuDs63/EuDs63.github.io/commit/1c41cf9b7f1d4b2160d2510d74885f2a4e0bd990\">1c41cf9</a>\n- <a href=\"https://github.com/EuDs63/EuDs63.github.io/commit/11299496ecc453066d1a3a81216d2bb24adc899f\">1129949</a>",
     "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
   },
   {
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/EuDs63/EuDs63.github.io/commit/81472a64e06c09fe528b32a5aeef5b7e35f85bba\">81472a6</a>\n- <a href=\"https://github.com/EuDs63/TemperMonkeyScripts/commit/6283213966a9f0f5f30a37db57ca71daa002ace4\">6283213</a>\n- <a href=\"https://github.com/EuDs63/EuDs63.github.io/commit/21c7da531c27cc6f625dd353e13f0d5a3bc0a705\">21c7da5</a>\n- <a href=\"https://github.com/EuDs63/EuDs63.github.io/commit/8216acce7dec892e6519ed23072fd7f56ce29408\">8216acc</a>\n- <a href=\"https://github.com/EuDs63/EuDs63.github.io/commit/d2f5e87f190f12416e0b159e31e7a04216ae3d49\">d2f5e87</a>\n- <a href=\"https://github.com/EuDs63/EuDs63.github.io/commit/c8effc6756cc72b23239655790acaf707d4bcdef\">c8effc6</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/EuDs63/EuDs63.github.io/commit/1e0e549d593bf27dd7b77a459ce3f1d05adeaa01\">1e0e549</a>\n- <a href=\"https://github.com/EuDs63/EuDs63.github.io/commit/81472a64e06c09fe528b32a5aeef5b7e35f85bba\">81472a6</a>\n- <a href=\"https://github.com/EuDs63/TemperMonkeyScripts/commit/6283213966a9f0f5f30a37db57ca71daa002ace4\">6283213</a>\n- <a href=\"https://github.com/EuDs63/EuDs63.github.io/commit/21c7da531c27cc6f625dd353e13f0d5a3bc0a705\">21c7da5</a>\n- <a href=\"https://github.com/EuDs63/EuDs63.github.io/commit/8216acce7dec892e6519ed23072fd7f56ce29408\">8216acc</a>\n- <a href=\"https://github.com/EuDs63/EuDs63.github.io/commit/d2f5e87f190f12416e0b159e31e7a04216ae3d49\">d2f5e87</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {
