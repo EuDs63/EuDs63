@@ -4,8 +4,6 @@
 <!-- BLOG-POST-LIST:START --><p align="center"><a href= https://ds63.eu.org/2024/something_about_undergraduate_employment/ > 本科就业二三事 - Oct 31, 2024 </a></p><p align="center"><a href= https://ds63.eu.org/2024/frontend_security/ > 前端安全 - Oct 11, 2024 </a></p><p align="center"><a href= https://ds63.eu.org/2024/css_points_of_flex/ > CSS知识点整理之flex - Oct 10, 2024 </a></p><p align="center"><a href= https://ds63.eu.org/2024/learn_computer_network/ > 计算机网络学习笔记 - Oct 10, 2024 </a></p><p align="center"><a href= https://ds63.eu.org/2024/javascript_points_of_this/ > JavaScript知识点整理之this - Oct 9, 2024 </a></p><p align="center"><a href= https://ds63.eu.org/2024/browser_storage/ > 浏览器存储 - Oct 9, 2024 </a></p><p align="center"><a href= https://ds63.eu.org/2024/learn-design-patterns/ > 设计模式学习笔记 - Oct 8, 2024 </a></p><p align="center"><a href= https://ds63.eu.org/2024/learn_react_hook/ > 进一步学习ReactHook - Oct 8, 2024 </a></p><p align="center"><a href= https://ds63.eu.org/2024/cors_problem/ > 跨域问题 - Oct 6, 2024 </a></p><p align="center"><a href= https://ds63.eu.org/2024/npm_from_born_to_death/ > npm包——从出生到死亡 - Oct 3, 2024 </a></p><!-- BLOG-POST-LIST:END -->
 
 <!-- my-badges start -->
-<h4><a href="https://github.com/my-badges/my-badges">My Badges</a></h4>
-
 <a href="my-badges/a-commit.md"><img src="https://my-badges.github.io/my-badges/a-commit.png" alt="One of my commit sha starts with &quot;a&quot;." title="One of my commit sha starts with &quot;a&quot;." width="64"></a>
 <a href="my-badges/ab-commit.md"><img src="https://my-badges.github.io/my-badges/ab-commit.png" alt="One of my commit sha starts with &quot;ab&quot;." title="One of my commit sha starts with &quot;ab&quot;." width="64"></a>
 <a href="my-badges/bad-words.md"><img src="https://my-badges.github.io/my-badges/bad-words.png" alt="I used a word &quot;fuck&quot; in my commit message." title="I used a word &quot;fuck&quot; in my commit message." width="64"></a>
@@ -22,5 +20,6 @@
 <a href="my-badges/public-keys-3.md"><img src="https://my-badges.github.io/my-badges/public-keys-3.png" alt="I have three public keys" title="I have three public keys" width="64"></a>
 <a href="my-badges/public-keys-4.md"><img src="https://my-badges.github.io/my-badges/public-keys-4.png" alt="I have four public keys" title="I have four public keys" width="64"></a>
 <a href="my-badges/dead-commit.md"><img src="https://my-badges.github.io/my-badges/dead-commit.png" alt="I pushed a commit with &quot;dead&quot; once." title="I pushed a commit with &quot;dead&quot; once." width="64"></a>
+<a href="my-badges/spooky-commit.md"><img src="https://my-badges.github.io/my-badges/spooky-commit.png" alt="I committed on the Halloween! Boo!" title="I committed on the Halloween! Boo!" width="64"></a>
 <!-- my-badges end -->
 
