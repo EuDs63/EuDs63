@@ -3,14 +3,14 @@
     "id": "a-commit",
     "tier": 1,
     "desc": "One of my commit sha starts with \"a\".",
-    "body": "- <a href=\"https://github.com/EuDs63/wush/commit/a22f4ad5de0973ad60670fbd6cb5a40ab5c8e410\"><strong>a</strong>22f4ad5de0973ad60670fbd6cb5a40ab5c8e410</a>",
+    "body": "- <a href=\"https://github.com/EuDs63/Faye_Bot/commit/a1fbf08c8b6dde0e92a59f3b861272fa7c60359e\"><strong>a</strong>1fbf08c8b6dde0e92a59f3b861272fa7c60359e</a>",
     "image": "https://my-badges.github.io/my-badges/a-commit.png"
   },
   {
     "id": "ab-commit",
     "tier": 2,
     "desc": "One of my commit sha starts with \"ab\".",
-    "body": "- <a href=\"https://github.com/EuDs63/RANK2COLLECTION/commit/aba330643256fb7ca5b16196be23a3be5feb33a1\"><strong>ab</strong>a330643256fb7ca5b16196be23a3be5feb33a1</a>",
+    "body": "- <a href=\"https://github.com/EuDs63/EuDs63.github.io/commit/ab6f357189abf7938e03b55a17904cbec8861fac\"><strong>ab</strong>6f357189abf7938e03b55a17904cbec8861fac</a>",
     "image": "https://my-badges.github.io/my-badges/ab-commit.png"
   },
   {
@@ -52,14 +52,14 @@
     "id": "mass-delete-commit",
     "tier": 1,
     "desc": "When I delete code, I delete a lot.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/EuDs63/BookRecommend_Front/commit/afdbe6a0983398b1c1118d65e0f4ffca8d1b4272\">afdbe6a</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/EuDs63/RANK2COLLECTION/commit/55e84d3f62f5bd6da4cca088681944edc6b7cbd5\">55e84d3</a>",
     "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
   },
   {
     "id": "mass-delete-commit-10k",
     "tier": 2,
     "desc": "When I delete code, I delete a lot.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/EuDs63/EuDs63.github.io/commit/b0864eecf838c2872591546c03217e9cd933f4b3\">b0864ee</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/EuDs63/game_of_life/commit/4d453e281e3eeebb569e3fdd1ddf84ae5dda14aa\">4d453e2</a>",
     "image": "https://my-badges.github.io/my-badges/mass-delete-commit-10k.png"
   },
   {
@@ -84,27 +84,6 @@
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {
-    "id": "public-keys-2",
-    "tier": 2,
-    "desc": "I have two public keys",
-    "body": "",
-    "image": "https://my-badges.github.io/my-badges/public-keys-2.png"
-  },
-  {
-    "id": "public-keys-3",
-    "tier": 3,
-    "desc": "I have three public keys",
-    "body": "",
-    "image": "https://my-badges.github.io/my-badges/public-keys-3.png"
-  },
-  {
-    "id": "public-keys-4",
-    "tier": 4,
-    "desc": "I have four public keys",
-    "body": "",
-    "image": "https://my-badges.github.io/my-badges/public-keys-4.png"
-  },
-  {
     "id": "dead-commit",
     "tier": 0,
     "desc": "I pushed a commit with \"dead\" once.",
@@ -117,5 +96,19 @@
     "desc": "I committed on the Halloween! Boo!",
     "body": "Commits:\n\n- <a href=\"https://github.com/EuDs63/EuDs63.github.io/commit/84031da4255d8bad277792d9a82d2f26ead3e33a\">84031da</a>\n- <a href=\"https://github.com/EuDs63/EuDs63.github.io/commit/a7c61c870f5fe71219037a7d1e1edf2f0bf5735e\">a7c61c8</a>\n- <a href=\"https://github.com/EuDs63/EuDs63.github.io/commit/975cb2e4229986cff5237c10c31af2aca08f5f58\">975cb2e</a>\n- <a href=\"https://github.com/EuDs63/EuDs63.github.io/commit/a30e19f0df4a35b42873b203807de4ec2780bfcc\">a30e19f</a>",
     "image": "https://my-badges.github.io/my-badges/spooky-commit.png"
+  },
+  {
+    "id": "self-upvote",
+    "tier": 1,
+    "desc": "I liked my own comment so much that I upvoted it.",
+    "body": "* <a href=\"https://github.com/EuDs63/EuDs63.github.io/discussions/6#discussioncomment-7290428\">❤️</a>",
+    "image": "https://my-badges.github.io/my-badges/self-upvote.png"
+  },
+  {
+    "id": "self-star",
+    "tier": 0,
+    "desc": "I've starred 1 my own repositories.",
+    "body": "- <a href=\"https://github.com/EuDs63/BookRecommend_Back\">EuDs63/BookRecommend_Back</a>",
+    "image": "https://my-badges.github.io/my-badges/self-star.png"
   }
 ]

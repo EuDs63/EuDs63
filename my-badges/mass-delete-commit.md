@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/EuDs63/BookRecommend_Front/commit/afdbe6a0983398b1c1118d65e0f4ffca8d1b4272">afdbe6a</a>
+- <a href="https://github.com/EuDs63/RANK2COLLECTION/commit/55e84d3f62f5bd6da4cca088681944edc6b7cbd5">55e84d3</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
