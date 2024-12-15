@@ -8,7 +8,7 @@ My favorite commit message words are:
 2. merge (used 98 times)
 3. branch (used 74 times)
 4. neodb (used 67 times)
-5. data (used 65 times)
+5. data (used 66 times)
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

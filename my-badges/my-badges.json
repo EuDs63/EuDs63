@@ -38,14 +38,14 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 259 times)\n2. merge (used 98 times)\n3. branch (used 74 times)\n4. neodb (used 67 times)\n5. data (used 65 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 259 times)\n2. merge (used 98 times)\n3. branch (used 74 times)\n4. neodb (used 67 times)\n5. data (used 66 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
     "id": "fix-2",
     "tier": 1,
     "desc": "I did 2 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/EuDs63/postkid/commit/5845d1f3da6b67cf91fa305f670ab4c758749da8\">5845d1f</a>: fix: Failed to execute 'removeChild' on 'Node'\n- <a href=\"https://github.com/EuDs63/postkid/commit/787cee1c01442b9bc8ca2801688f55dad19b5cf1\">787cee1</a>: fix: Failed to execute 'removeChild' on 'Node'",
+    "body": "Commits:\n\n- <a href=\"https://github.com/EuDs63/my-github-2024/commit/9efe590f996ef3bc5fd1d6945b48e64cbc5388e5\">9efe590</a>: fix: use env instead of hardcode to get username\n- <a href=\"https://github.com/EuDs63/my-github-2024/commit/72b14253b236d78a5b9df8c88b0d0b19af55ff34\">72b1425</a>: fix: add pytz in requirements.txt",
     "image": "https://my-badges.github.io/my-badges/fix-2.png"
   },
   {
@@ -80,7 +80,7 @@
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/EuDs63/BiliBili_Memory/commit/13462298e1e68e7958f187320fa450febcff3b26\">1346229</a>\n- <a href=\"https://github.com/EuDs63/EuDs63.github.io/commit/1e0e549d593bf27dd7b77a459ce3f1d05adeaa01\">1e0e549</a>\n- <a href=\"https://github.com/EuDs63/EuDs63.github.io/commit/81472a64e06c09fe528b32a5aeef5b7e35f85bba\">81472a6</a>\n- <a href=\"https://github.com/EuDs63/TemperMonkeyScripts/commit/6283213966a9f0f5f30a37db57ca71daa002ace4\">6283213</a>\n- <a href=\"https://github.com/EuDs63/EuDs63.github.io/commit/21c7da531c27cc6f625dd353e13f0d5a3bc0a705\">21c7da5</a>\n- <a href=\"https://github.com/EuDs63/EuDs63.github.io/commit/8216acce7dec892e6519ed23072fd7f56ce29408\">8216acc</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/EuDs63/my-github-2024/commit/87949606f3ddac5ed7d68d3cd3b107bdd24cccda\">8794960</a>\n- <a href=\"https://github.com/EuDs63/my-github-2024/commit/9efe590f996ef3bc5fd1d6945b48e64cbc5388e5\">9efe590</a>\n- <a href=\"https://github.com/EuDs63/my-github-2024/commit/72b14253b236d78a5b9df8c88b0d0b19af55ff34\">72b1425</a>\n- <a href=\"https://github.com/EuDs63/my-github-2024/commit/857cea0aeff6a8e66525d0d28796ee610ef59b1d\">857cea0</a>\n- <a href=\"https://github.com/EuDs63/BiliBili_Memory/commit/13462298e1e68e7958f187320fa450febcff3b26\">1346229</a>\n- <a href=\"https://github.com/EuDs63/EuDs63.github.io/commit/1e0e549d593bf27dd7b77a459ce3f1d05adeaa01\">1e0e549</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {

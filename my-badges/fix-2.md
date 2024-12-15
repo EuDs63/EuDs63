@@ -4,8 +4,8 @@
 
 Commits:
 
-- <a href="https://github.com/EuDs63/postkid/commit/5845d1f3da6b67cf91fa305f670ab4c758749da8">5845d1f</a>: fix: Failed to execute 'removeChild' on 'Node'
-- <a href="https://github.com/EuDs63/postkid/commit/787cee1c01442b9bc8ca2801688f55dad19b5cf1">787cee1</a>: fix: Failed to execute 'removeChild' on 'Node'
+- <a href="https://github.com/EuDs63/my-github-2024/commit/9efe590f996ef3bc5fd1d6945b48e64cbc5388e5">9efe590</a>: fix: use env instead of hardcode to get username
+- <a href="https://github.com/EuDs63/my-github-2024/commit/72b14253b236d78a5b9df8c88b0d0b19af55ff34">72b1425</a>: fix: add pytz in requirements.txt
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
