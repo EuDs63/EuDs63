@@ -110,5 +110,12 @@
     "desc": "I've starred 1 my own repositories.",
     "body": "- <a href=\"https://github.com/EuDs63/BookRecommend_Back\">EuDs63/BookRecommend_Back</a>",
     "image": "https://my-badges.github.io/my-badges/self-star.png"
+  },
+  {
+    "id": "leap-day",
+    "tier": 0,
+    "desc": "Happy February 29th! I committed on a Leap Day!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/EuDs63/RANK2COLLECTION/commit/2c6db97045aabf1d15f6202cc1e1441e21ad8026\">2c6db97</a>\n- <a href=\"https://github.com/EuDs63/RANK2COLLECTION/commit/f6d9c02e564ff2fa2ed1ea53492871553b2f3b06\">f6d9c02</a>\n- <a href=\"https://github.com/EuDs63/RANK2COLLECTION/commit/6f372fb2dbcf98048fb397df7136735233600a58\">6f372fb</a>\n- <a href=\"https://github.com/EuDs63/RANK2COLLECTION/commit/aa3b5c321f73ff4d24e7d0ce5a796504f83ce24d\">aa3b5c3</a>\n- <a href=\"https://github.com/EuDs63/RANK2COLLECTION/commit/30c0466386128143aa9141e5317dedcddf79267e\">30c0466</a>\n- <a href=\"https://github.com/EuDs63/RANK2COLLECTION/commit/55e84d3f62f5bd6da4cca088681944edc6b7cbd5\">55e84d3</a>",
+    "image": "https://my-badges.github.io/my-badges/leap-day.png"
   }
 ]
