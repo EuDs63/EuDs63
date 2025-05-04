@@ -4,7 +4,7 @@
 
 My favorite commit message words are:
 
-1. update (used 288 times)
+1. update (used 289 times)
 2. merge (used 98 times)
 3. neodb (used 86 times)
 4. data (used 85 times)
