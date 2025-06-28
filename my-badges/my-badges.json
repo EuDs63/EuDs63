@@ -124,5 +124,12 @@
     "desc": "I committed on Friday the 13th, One… By One…",
     "body": "Commits:\n\n- <a href=\"https://github.com/EuDs63/EuDs63.github.io/commit/0bc5c0aee54a305ba98837cd4f78f8b9dd068a0c\">0bc5c0a</a>",
     "image": "https://my-badges.github.io/my-badges/friday-13.png"
+  },
+  {
+    "id": "thumbs-up-10",
+    "tier": 1,
+    "desc": "I got more than 10 thumbs up.",
+    "body": "* <a href=\"https://github.com/VSCodeVim/Vim/issues/9668#issuecomment-2976567562\">12 👍</a>",
+    "image": "https://my-badges.github.io/my-badges/thumbs-up-10.png"
   }
 ]
