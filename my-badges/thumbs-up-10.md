@@ -2,7 +2,7 @@
 <strong>I got more than 10 thumbs up.</strong>
 <br><br>
 
-* <a href="https://github.com/VSCodeVim/Vim/issues/9668#issuecomment-2976567562">20 👍</a>
+* <a href="https://github.com/VSCodeVim/Vim/issues/9668#issuecomment-2976567562">21 👍</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
