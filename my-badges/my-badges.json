@@ -142,7 +142,7 @@
   {
     "id": "may-the-4th",
     "tier": 0,
-    "desc": "May the 4th be with you! Commits of force:",
+    "desc": "May the 4th be with you!",
     "body": "Commits:\n\n- <a href=\"https://github.com/EuDs63/EuDs63.github.io/commit/ebe989e2e77b7a4181ee560fe6453c08af44bf37\">ebe989e</a>\n- <a href=\"https://github.com/EuDs63/EuDs63.github.io/commit/23c43262dc2edd1dfdbd34bb0b90d3754c704584\">23c4326</a>",
     "image": "https://my-badges.github.io/my-badges/may-the-4th.png"
   },
@@ -159,5 +159,12 @@
     "desc": "I committed on St. Patrick's Day!",
     "body": "Commits:\n\n- <a href=\"https://github.com/EuDs63/EuDs63.github.io/commit/deae502c7c55d2246b33f76a8f564a629a2b005b\">deae502</a>",
     "image": "https://my-badges.github.io/my-badges/st-patricks-day.png"
+  },
+  {
+    "id": "science-fiction-day",
+    "tier": 0,
+    "desc": "I committed on Isaac Asimov's birthday / National Science Fiction Day!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/EuDs63/EuDs63.github.io/commit/c9d461036ef8019bf11cb23f9e99705a909e0ace\">c9d4610</a>",
+    "image": "https://my-badges.github.io/my-badges/science-fiction-day.png"
   }
 ]
