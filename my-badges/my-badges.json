@@ -38,7 +38,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 338 times)\n2. neodb (used 128 times)\n3. data (used 127 times)\n4. merge (used 99 times)\n5. branch (used 74 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 339 times)\n2. neodb (used 129 times)\n3. data (used 128 times)\n4. merge (used 99 times)\n5. branch (used 74 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -166,5 +166,12 @@
     "desc": "I have two public keys",
     "body": "",
     "image": "https://my-badges.github.io/my-badges/public-keys-2.png"
+  },
+  {
+    "id": "alien-day",
+    "tier": 0,
+    "desc": "I committed on the day when the crew of the USCSS Nostromo made their fateful landing and discovered the Xenomorph on LV-426!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/EuDs63/EuDs63.github.io/commit/8f8679d6beb9af54504ac962e3ec4a2fac1978ef\">8f8679d</a>",
+    "image": "https://my-badges.github.io/my-badges/alien-day.png"
   }
 ]
