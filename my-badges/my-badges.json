@@ -1,96 +1,5 @@
 [
   {
-    "id": "a-commit",
-    "tier": 1,
-    "desc": "One of my commit sha starts with \"a\".",
-    "body": "- <a href=\"https://github.com/EuDs63/Faye_Bot/commit/a1fbf08c8b6dde0e92a59f3b861272fa7c60359e\"><strong>a</strong>1fbf08c8b6dde0e92a59f3b861272fa7c60359e</a>",
-    "image": "https://my-badges.github.io/my-badges/a-commit.png"
-  },
-  {
-    "id": "ab-commit",
-    "tier": 2,
-    "desc": "One of my commit sha starts with \"ab\".",
-    "body": "- <a href=\"https://github.com/EuDs63/EuDs63.github.io/commit/ab6f357189abf7938e03b55a17904cbec8861fac\"><strong>ab</strong>6f357189abf7938e03b55a17904cbec8861fac</a>",
-    "image": "https://my-badges.github.io/my-badges/ab-commit.png"
-  },
-  {
-    "id": "bad-words",
-    "tier": 0,
-    "desc": "I used a word \"fuck\" in my commit message.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/EuDs63/BookRecommend_Back/commit/a4d161fe9fc1ba64efb05c646d24402ede32220c\">a4d161f</a>: fuck pycache",
-    "image": "https://my-badges.github.io/my-badges/bad-words.png"
-  },
-  {
-    "id": "cosmetic-commit",
-    "tier": 0,
-    "desc": "I made cosmetic commit.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/EuDs63/postkid/commit/a0da5a30018df94316469319aeaeb8eed0487c64\">a0da5a3</a>\n- <a href=\"https://github.com/EuDs63/ncmTranslatorScript_python/commit/69236bc312f5028dd1a92d8ab6a4eb30270fc608\">69236bc</a>",
-    "image": "https://my-badges.github.io/my-badges/cosmetic-commit.png"
-  },
-  {
-    "id": "delorean",
-    "tier": 0,
-    "desc": "I committed on the day Doctor Emmett Brown invented the flux capacitor!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/EuDs63/EuDs63.github.io/commit/852fb08444b75baf1f7be2132c7204e8b431632c\">852fb08</a>\n- <a href=\"https://github.com/EuDs63/EuDs63.github.io/commit/d6276663df19a67c783cc4b76e92e42dffeaddc6\">d627666</a>",
-    "image": "https://my-badges.github.io/my-badges/delorean.png"
-  },
-  {
-    "id": "favorite-word",
-    "tier": 0,
-    "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 348 times)\n2. neodb (used 135 times)\n3. data (used 134 times)\n4. merge (used 99 times)\n5. branch (used 74 times)",
-    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
-  },
-  {
-    "id": "fix-2",
-    "tier": 1,
-    "desc": "I did 2 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/EuDs63/my-github-2024/commit/9efe590f996ef3bc5fd1d6945b48e64cbc5388e5\">9efe590</a>: fix: use env instead of hardcode to get username\n- <a href=\"https://github.com/EuDs63/my-github-2024/commit/72b14253b236d78a5b9df8c88b0d0b19af55ff34\">72b1425</a>: fix: add pytz in requirements.txt",
-    "image": "https://my-badges.github.io/my-badges/fix-2.png"
-  },
-  {
-    "id": "mass-delete-commit",
-    "tier": 1,
-    "desc": "When I delete code, I delete a lot.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/EuDs63/RANK2COLLECTION/commit/55e84d3f62f5bd6da4cca088681944edc6b7cbd5\">55e84d3</a>",
-    "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
-  },
-  {
-    "id": "mass-delete-commit-10k",
-    "tier": 2,
-    "desc": "When I delete code, I delete a lot.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/EuDs63/game_of_life/commit/4d453e281e3eeebb569e3fdd1ddf84ae5dda14aa\">4d453e2</a>",
-    "image": "https://my-badges.github.io/my-badges/mass-delete-commit-10k.png"
-  },
-  {
-    "id": "sleepy-coder",
-    "tier": 0,
-    "desc": "I am a sleepy coder.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/EuDs63/daily-heatmap-svg/commit/de897a20976900c4e4ef7925d906fa489c1495e3\">de897a2</a>\n- <a href=\"https://github.com/EuDs63/steam-spend-ledger/commit/0359fb16c278fbf6495f07f3562df5752aa82cdb\">0359fb1</a>\n- <a href=\"https://github.com/EuDs63/journal-today/commit/68794a97130d264528e0cf9d1a98d4cda77128b9\">68794a9</a>\n- <a href=\"https://github.com/EuDs63/git-md-edit-history/commit/f7266a6c1a73dca14f25d1589f5c1ffcd72a9792\">f7266a6</a>\n- <a href=\"https://github.com/EuDs63/url-privacy-inspector/commit/85f1547d8ccebdebe8083a6bde2dc0f905ed55de\">85f1547</a>\n- <a href=\"https://github.com/EuDs63/EuDs63/commit/a4e4f64935d6209283a45b52d5ff340b78876e19\">a4e4f64</a>",
-    "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
-  },
-  {
-    "id": "morning-commits",
-    "tier": 0,
-    "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/EuDs63/my-github-2024/commit/87949606f3ddac5ed7d68d3cd3b107bdd24cccda\">8794960</a>\n- <a href=\"https://github.com/EuDs63/my-github-2024/commit/9efe590f996ef3bc5fd1d6945b48e64cbc5388e5\">9efe590</a>\n- <a href=\"https://github.com/EuDs63/my-github-2024/commit/72b14253b236d78a5b9df8c88b0d0b19af55ff34\">72b1425</a>\n- <a href=\"https://github.com/EuDs63/my-github-2024/commit/857cea0aeff6a8e66525d0d28796ee610ef59b1d\">857cea0</a>\n- <a href=\"https://github.com/EuDs63/BiliBili_Memory/commit/13462298e1e68e7958f187320fa450febcff3b26\">1346229</a>\n- <a href=\"https://github.com/EuDs63/EuDs63.github.io/commit/1e0e549d593bf27dd7b77a459ce3f1d05adeaa01\">1e0e549</a>",
-    "image": "https://my-badges.github.io/my-badges/morning-commits.png"
-  },
-  {
-    "id": "dead-commit",
-    "tier": 0,
-    "desc": "I pushed a commit with \"dead\" once.",
-    "body": "- <a href=\"https://github.com/EuDs63/EuDs63.github.io/commit/450dead301ef2a8dc6c53752d840be6cf387d40d\">450<strong>dead</strong>301ef2a8dc6c53752d840be6cf387d40d</a>",
-    "image": "https://my-badges.github.io/my-badges/dead-commit.png"
-  },
-  {
-    "id": "spooky-commit",
-    "tier": 0,
-    "desc": "I committed on the Halloween! Boo!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/EuDs63/EuDs63.github.io/commit/84031da4255d8bad277792d9a82d2f26ead3e33a\">84031da</a>\n- <a href=\"https://github.com/EuDs63/EuDs63.github.io/commit/a7c61c870f5fe71219037a7d1e1edf2f0bf5735e\">a7c61c8</a>\n- <a href=\"https://github.com/EuDs63/EuDs63.github.io/commit/975cb2e4229986cff5237c10c31af2aca08f5f58\">975cb2e</a>\n- <a href=\"https://github.com/EuDs63/EuDs63.github.io/commit/a30e19f0df4a35b42873b203807de4ec2780bfcc\">a30e19f</a>",
-    "image": "https://my-badges.github.io/my-badges/spooky-commit.png"
-  },
-  {
     "id": "self-upvote",
     "tier": 1,
     "desc": "I liked my own comment so much that I upvoted it.",
@@ -98,74 +7,11 @@
     "image": "https://my-badges.github.io/my-badges/self-upvote.png"
   },
   {
-    "id": "self-star",
-    "tier": 0,
-    "desc": "I've starred 1 my own repositories.",
-    "body": "- <a href=\"https://github.com/EuDs63/BookRecommend_Back\">EuDs63/BookRecommend_Back</a>",
-    "image": "https://my-badges.github.io/my-badges/self-star.png"
-  },
-  {
-    "id": "leap-day",
-    "tier": 0,
-    "desc": "Happy February 29th! I committed on a Leap Day!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/EuDs63/RANK2COLLECTION/commit/2c6db97045aabf1d15f6202cc1e1441e21ad8026\">2c6db97</a>\n- <a href=\"https://github.com/EuDs63/RANK2COLLECTION/commit/f6d9c02e564ff2fa2ed1ea53492871553b2f3b06\">f6d9c02</a>\n- <a href=\"https://github.com/EuDs63/RANK2COLLECTION/commit/6f372fb2dbcf98048fb397df7136735233600a58\">6f372fb</a>\n- <a href=\"https://github.com/EuDs63/RANK2COLLECTION/commit/aa3b5c321f73ff4d24e7d0ce5a796504f83ce24d\">aa3b5c3</a>\n- <a href=\"https://github.com/EuDs63/RANK2COLLECTION/commit/30c0466386128143aa9141e5317dedcddf79267e\">30c0466</a>\n- <a href=\"https://github.com/EuDs63/RANK2COLLECTION/commit/55e84d3f62f5bd6da4cca088681944edc6b7cbd5\">55e84d3</a>",
-    "image": "https://my-badges.github.io/my-badges/leap-day.png"
-  },
-  {
-    "id": "friday-13",
-    "tier": 0,
-    "desc": "I committed on Friday the 13th, One… By One…",
-    "body": "Commits:\n\n- <a href=\"https://github.com/EuDs63/EuDs63.github.io/commit/0bc5c0aee54a305ba98837cd4f78f8b9dd068a0c\">0bc5c0a</a>",
-    "image": "https://my-badges.github.io/my-badges/friday-13.png"
-  },
-  {
     "id": "thumbs-up-10",
     "tier": 1,
     "desc": "I got more than 10 thumbs up.",
     "body": "* <a href=\"https://github.com/VSCodeVim/Vim/issues/9668#issuecomment-2976567562\">21 👍</a>",
     "image": "https://my-badges.github.io/my-badges/thumbs-up-10.png"
-  },
-  {
-    "id": "programmers-day",
-    "tier": 0,
-    "desc": "Happy Programmers Day! I committed on a 256 Day of Year!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/EuDs63/DoubanSpider/commit/7455c2100f53e2683fe5714f62146699f86c97d9\">7455c21</a>\n- <a href=\"https://github.com/EuDs63/DoubanSpider/commit/c2f6328d0eb68bf5c50dbef74367a9f9a0c35874\">c2f6328</a>\n- <a href=\"https://github.com/EuDs63/DoubanSpider/commit/6bd0b505e28b763a0fa92a2a072d3e9ac2eab6b3\">6bd0b50</a>\n- <a href=\"https://github.com/EuDs63/DoubanSpider/commit/613ac851a05f58bebc7f8324566b07760aa03ac5\">613ac85</a>\n- <a href=\"https://github.com/EuDs63/DoubanSpider/commit/971f57c2b85325d4e155afbb9a118d3ca0cfbc5f\">971f57c</a>\n- <a href=\"https://github.com/EuDs63/EuDs63.github.io/commit/43660586d81c485fc3d7f9471b1c0167fd498de6\">4366058</a>",
-    "image": "https://my-badges.github.io/my-badges/programmers-day.png"
-  },
-  {
-    "id": "may-the-4th",
-    "tier": 0,
-    "desc": "May the 4th be with you!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/EuDs63/EuDs63.github.io/commit/ebe989e2e77b7a4181ee560fe6453c08af44bf37\">ebe989e</a>\n- <a href=\"https://github.com/EuDs63/EuDs63.github.io/commit/23c43262dc2edd1dfdbd34bb0b90d3754c704584\">23c4326</a>",
-    "image": "https://my-badges.github.io/my-badges/may-the-4th.png"
-  },
-  {
-    "id": "pi-day",
-    "tier": 0,
-    "desc": "Happy March 14th! I committed on a Pi Day!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/EuDs63/EuDs63.github.io/commit/2d7826c7985860dab5b18ba2fcd90eb8f59e539d\">2d7826c</a>\n- <a href=\"https://github.com/EuDs63/EuDs63.github.io/commit/83d2aca0696d6d175681e7809378c0732a1203e0\">83d2aca</a>\n- <a href=\"https://github.com/EuDs63/EuDs63.github.io/commit/68aca0d04cf59a081e34346ce793cbdc687b8946\">68aca0d</a>\n- <a href=\"https://github.com/EuDs63/EuDs63.github.io/commit/f9a4279e750f9424195e7c38e444721c4aa2f962\">f9a4279</a>\n- <a href=\"https://github.com/EuDs63/EuDs63.github.io/commit/96ceebb76c6135a5b1aee8394d68540bb35d120d\">96ceebb</a>\n- <a href=\"https://github.com/EuDs63/EuDs63.github.io/commit/013ba4ffaccdef4e17f71b87111b8edd8addf6fd\">013ba4f</a>",
-    "image": "https://my-badges.github.io/my-badges/pi-day.png"
-  },
-  {
-    "id": "st-patricks-day",
-    "tier": 0,
-    "desc": "I committed on St. Patrick's Day!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/EuDs63/EuDs63.github.io/commit/deae502c7c55d2246b33f76a8f564a629a2b005b\">deae502</a>",
-    "image": "https://my-badges.github.io/my-badges/st-patricks-day.png"
-  },
-  {
-    "id": "science-fiction-day",
-    "tier": 0,
-    "desc": "I committed on Isaac Asimov's birthday / National Science Fiction Day!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/EuDs63/EuDs63.github.io/commit/c9d461036ef8019bf11cb23f9e99705a909e0ace\">c9d4610</a>",
-    "image": "https://my-badges.github.io/my-badges/science-fiction-day.png"
-  },
-  {
-    "id": "alien-day",
-    "tier": 0,
-    "desc": "I committed on the day when the crew of the USCSS Nostromo made their fateful landing and discovered the Xenomorph on LV-426!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/EuDs63/EuDs63.github.io/commit/8f8679d6beb9af54504ac962e3ec4a2fac1978ef\">8f8679d</a>",
-    "image": "https://my-badges.github.io/my-badges/alien-day.png"
   },
   {
     "id": "public-keys-3",
